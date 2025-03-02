@@ -1,0 +1,3 @@
+C:/CodeForces/WayTooLongWords/cmake-build-debug/CMakeFiles/WayTooLongWords.dir
+C:/CodeForces/WayTooLongWords/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeForces/WayTooLongWords/cmake-build-debug/CMakeFiles/rebuild_cache.dir

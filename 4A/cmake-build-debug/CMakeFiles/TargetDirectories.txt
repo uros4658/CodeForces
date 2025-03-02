@@ -1,0 +1,3 @@
+C:/CodeForces/4A/cmake-build-debug/CMakeFiles/4A.dir
+C:/CodeForces/4A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeForces/4A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
