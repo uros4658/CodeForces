@@ -1,3 +1,0 @@
-C:/CodeForces/team/cmake-build-debug/CMakeFiles/team.dir
-C:/CodeForces/team/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/CodeForces/team/cmake-build-debug/CMakeFiles/rebuild_cache.dir
